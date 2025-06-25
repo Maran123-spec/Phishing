@@ -1,5 +1,6 @@
 # Phishing
 This is the sample text file
+
 1.Examine sender email address:account-security@m1crosoft-alert.com (misplaced-Microsoft)
 
 2.Checking email headers using Gmail: and Return-Path: differs.SPF/DKIM fail     
